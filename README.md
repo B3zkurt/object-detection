@@ -20,3 +20,6 @@ pip install argparse
 pip install time
 pip install cv2
 pip install os
+
+# Video 
+https://youtu.be/z1Fqaxr8uQg
