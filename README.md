@@ -11,7 +11,7 @@ images adında klasör oluşturup içine resimleri koyunuz algılatmak istediği
 
 Çalıştırma Komutu.
 
-# python yolo.py --image images/*.jpg --yolo yolo-coco
+python yolo.py --image images/*.jpg --yolo yolo-coco
 
 kurulcak olan kütüphaneler.
 
